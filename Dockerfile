@@ -1,3 +1,3 @@
-FROM php:7.4-cli
+FROM php:8.2-cli
 COPY . /testTask
 WORKDIR /testTask
